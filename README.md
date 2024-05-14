@@ -88,9 +88,7 @@ Instructables
 ---
 
 # Personal Projects
-$$
 
-$$
 ## [Motivations.Live](https://motivations.live)
 ![Motivations.Live Screenshot](/assets/img/motivations_live.png)
 
